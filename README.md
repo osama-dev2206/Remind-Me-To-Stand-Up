@@ -13,6 +13,8 @@ Many people start work with good intentions, then lose track of time while study
 <img width="629" height="386" alt="Screenshot 2026-06-22 233125" src="https://github.com/user-attachments/assets/61b16969-0046-4f94-b0de-0fd42f6e1667" />
 <img width="504" height="199" alt="image" src="https://github.com/user-attachments/assets/3019dd13-2e92-4e2b-8a97-53fdcce4d677" />
 <img width="489" height="188" alt="image" src="https://github.com/user-attachments/assets/157485eb-9ff7-4136-b204-db8db7dd8059" />
+<img width="516" height="203" alt="image" src="https://github.com/user-attachments/assets/b0fb9c35-78e7-4cda-b509-13723f818d60" />
+
 
 ---
 
