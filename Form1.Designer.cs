@@ -42,6 +42,7 @@
             this.timerSec = new System.Windows.Forms.Timer(this.components);
             this.btnRest = new System.Windows.Forms.Button();
             this.notifyIconBackToApp = new System.Windows.Forms.NotifyIcon(this.components);
+            this.label = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pbInfo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.UDMin)).BeginInit();
             this.SuspendLayout();
@@ -181,6 +182,16 @@
             this.notifyIconBackToApp.BalloonTipClicked += new System.EventHandler(this.notifyIconBackToApp_BalloonTipClicked);
             this.notifyIconBackToApp.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.notifyIconBackToApp_MouseDoubleClick);
             // 
+            // label
+            // 
+            this.label.AutoSize = true;
+            this.label.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label.Location = new System.Drawing.Point(485, 256);
+            this.label.Name = "label";
+            this.label.Size = new System.Drawing.Size(41, 23);
+            this.label.TabIndex = 10;
+            this.label.Text = "Min";
+            // 
             // Form1
             // 
             this.AcceptButton = this.btnStart;
@@ -189,6 +200,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.CancelButton = this.btnRest;
             this.ClientSize = new System.Drawing.Size(660, 387);
+            this.Controls.Add(this.label);
             this.Controls.Add(this.btnRest);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.UDMin);
@@ -223,6 +235,7 @@
         private System.Windows.Forms.Timer timerSec;
         private System.Windows.Forms.Button btnRest;
         private System.Windows.Forms.NotifyIcon notifyIconBackToApp;
+        private System.Windows.Forms.Label label;
     }
 }
 
