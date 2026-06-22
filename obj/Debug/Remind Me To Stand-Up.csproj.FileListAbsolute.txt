@@ -1,0 +1,10 @@
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\bin\Debug\Remind Me To Stand-Up.exe.config
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\bin\Debug\Remind Me To Stand-Up.exe
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\bin\Debug\Remind Me To Stand-Up.pdb
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\obj\Debug\Remind Me To Stand-Up.csproj.AssemblyReference.cache
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\obj\Debug\Remind_Me_To_Stand_Up.Form1.resources
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\obj\Debug\Remind_Me_To_Stand_Up.Properties.Resources.resources
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\obj\Debug\Remind Me To Stand-Up.csproj.GenerateResource.cache
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\obj\Debug\Remind Me To Stand-Up.csproj.CoreCompileInputs.cache
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\obj\Debug\Remind Me To Stand-Up.exe
+D:\Self-Study\C#\16- C# OOP\Remind Me To Stand-Up\obj\Debug\Remind Me To Stand-Up.pdb

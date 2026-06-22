@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Setup/Setup.vdproj" Type="Installer" />
+  <Project Path="Remind Me To Stand Up.csproj" Id="7c8981ff-ad00-4565-91b1-dd4347e706f2" />
+</Solution>
