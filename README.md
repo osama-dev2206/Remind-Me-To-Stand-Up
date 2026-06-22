@@ -8,6 +8,13 @@ Many people start work with good intentions, then lose track of time while study
 **Remind-Me-To-Stand-Up** is a simple desktop reminder app built to solve that exact problem: it helps users break long sitting periods by sending clear stand-up reminders at a chosen interval.
 
 ---
+## Project screenshots 
+
+<img width="629" height="386" alt="Screenshot 2026-06-22 233125" src="https://github.com/user-attachments/assets/61b16969-0046-4f94-b0de-0fd42f6e1667" />
+<img width="504" height="199" alt="image" src="https://github.com/user-attachments/assets/3019dd13-2e92-4e2b-8a97-53fdcce4d677" />
+<img width="489" height="188" alt="image" src="https://github.com/user-attachments/assets/157485eb-9ff7-4136-b204-db8db7dd8059" />
+
+---
 
 ## Project overview
 
